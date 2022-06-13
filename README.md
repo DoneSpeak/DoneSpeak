@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" width="400px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DoneSpeak&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+
+#### 🌈 &nbsp;Tach stacks & Tools
+
+<code><a href="https://github.com/Alienover"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></a></code>
+<code><a href="https://www.typescriptlang.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
