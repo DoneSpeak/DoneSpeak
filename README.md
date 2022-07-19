@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 #### 🌈 &nbsp;Tach stacks & Tools
 
 <code><a href="https://github.com/Donespeak"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></a></code>
-<code><a href="https://www.typescriptlang.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
+<code><a href="https://github.com/Donespeak"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
